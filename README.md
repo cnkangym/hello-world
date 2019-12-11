@@ -10,4 +10,5 @@ just another respository
 - 联系人模块
 - 业务机会模块
 - 报价模块
+- 合同模块
 - 订单模块
